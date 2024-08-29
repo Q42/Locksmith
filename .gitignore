@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OS X
 .DS_Store
 
@@ -7,6 +6,7 @@
 # Xcode
 .DS_Store
 xcuserdata
+xcshareddata
 *.xccheckout
 profile
 *.moved-aside
@@ -34,3 +34,7 @@ DerivedData
 # Pods - for those of you who use CocoaPods
 Pods
 /.build
+
+# Swift Package Manager
+.build
+.swiftpm
